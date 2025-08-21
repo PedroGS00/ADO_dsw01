@@ -7,7 +7,10 @@
   <version>1.0-SNAPSHOT</version>
   <name>carstore Maven Webapp</name>
   <url>http://maven.apache.org</url>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8c01643419d2a9266163008f91105af545382aa5
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
